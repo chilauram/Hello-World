@@ -1,5 +1,5 @@
 # Hello-World
-My first github repositories
+My first github repository
 
 Hello Everyone,
 
